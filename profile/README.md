@@ -38,4 +38,4 @@ For questions or collaborations, reach out to:
 
 **Dennis Mathew Jose - [LinkedIn](https://www.linkedin.com/in/dennismjose/)** 
 
-**Swaroop Suraneni - [LinkedIn]()**
+**Swaroop Suraneni - [LinkedIn](https://www.linkedin.com/in/swaroopsuraneni/)**
