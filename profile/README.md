@@ -20,9 +20,15 @@ To extract actionable insights from customer data for:
 - Gender differences suggest opportunities for targeted offerings.
 - Age distribution highlights clear patterns across segments.
 
+ ## CodeBase 
+- We have 3 different EDA
+- [EDA 1](https://github.com/Santander-Product-Recsys/Santander-RecSys-Dennis)
+- [EDA 2](https://github.com/Santander-Product-Recsys/Santander_RecSys_swaroop)
+- [EDA 3]()
+
 ##  Tools & Technologies
 - **Python** (Pandas, NumPy)
-- **Seaborn** & **Matplotlib** (Data Visualization)
+- **Seaborn**, **Matplotlib**  & **Plotly** (Data Visualization)
 - **Jupyter Notebook**
 
 ##  Dataset
